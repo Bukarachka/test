@@ -11,12 +11,12 @@ namespace ConsoleApp1
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello");
-			Pidar();
+			Suka();
 		}
 
-		private static void Pidar()
+		private static void Suka()
 		{
-			Console.WriteLine("pidar");
+			Console.WriteLine("nahui");
 		}
 	}
 }
